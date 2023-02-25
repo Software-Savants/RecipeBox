@@ -33,7 +33,13 @@ Contributions to RecipeBox are welcome! To contribute, follow these steps:
 * Create a new branch: `git checkout -b my-new-feature`
 * Make your changes and commit them `git commit -am 'Add some feature`
 * Push to the branch: `git push origin my-new-feature`
-* 
+
+
+* Submit a pull request.
+## License
+RecipeBox is licensed under the `MIT License`. See LICENSE for more information.
+
+## Acknowledgments
 
 
 
