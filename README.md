@@ -30,6 +30,11 @@ Contributions to RecipeBox are welcome! To contribute, follow these steps:
 
 * Fork this repository to your own account.
 
-* Create a new branch:
+* Create a new branch: `git checkout -b my-new-feature`
+* Make your changes and commit them `git commit -am 'Add some feature`
+* Push to the branch: `git push origin my-new-feature`
+* 
+
+
 
 
