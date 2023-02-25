@@ -18,3 +18,8 @@ RecipeBox is a full-stack web application built with RedwoodJS that allows users
 To get started with RecipeBox, follow these steps:
 
 * Clone this repository to your local machine: `git clone https://github.com/Software-Savants/recipebox.git`
+* Install the dependencies: `cd recipebox yarn install`
+* Start the development server: `yarn rw dev`
+* Open your browser and navigate to `http://localhost:8910` to view the application.
+
+
