@@ -28,8 +28,8 @@ To deploy RecipeBox to a hosting provider like Netlify or Vercel, follow the ins
 ## Contributing
 Contributions to RecipeBox are welcome! To contribute, follow these steps:
 
-Fork this repository to your own account.
+* Fork this repository to your own account.
 
-Create a new branch:
+* Create a new branch:
 
 
