@@ -23,7 +23,7 @@ To get started with RecipeBox, follow these steps:
 * Open your browser and navigate to `http://localhost:8910` to view the application.
 
 ## Deployment
-To deploy RecipeBox to a hosting provider like Netlify or Vercel, follow the instructions in the (RedwoodJS Deployment Guide)[https://redwoodjs.com/docs/introduction].
+To deploy RecipeBox to a hosting provider like Netlify or Vercel, follow the instructions in the [RedwoodJS Deployment Guide](https://redwoodjs.com/docs/introduction).
 
 ## Contributing
 Contributions to RecipeBox are welcome! To contribute, follow these steps:
